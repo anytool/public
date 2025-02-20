@@ -1,4 +1,4 @@
-# [AnyTool.in's Blog Projects & Tutorials] (https://anytool.in/blog)
+# AnyTool.in's Blog Projects & Tutorials (https://anytool.in/blog)
 
 Welcome to AnyTool.in Blog's Tutorial repository! This is where we upload small projects that are used as tutorials in our blog posts on platforms like AnyTool.in/Blog and Medium. Each project is designed to be a hands-on learning experience, covering various concepts in web development, machine learning, and other tech topics. This repository contains multiple subprojects, each organized into its own folder.
 
