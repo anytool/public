@@ -1,6 +1,6 @@
-# AnyTool.in's Blog Projects & Tutorials (https://anytool.in/blog)
+# AnyTool.in's Blog Projects & Tutorials
 
-Welcome to AnyTool.in Blog's Tutorial repository! This is where we upload small projects that are used as tutorials in our blog posts on platforms like AnyTool.in/Blog and Medium. Each project is designed to be a hands-on learning experience, covering various concepts in web development, machine learning, and other tech topics. This repository contains multiple subprojects, each organized into its own folder.
+Welcome to [AnyTool.in Blog's](https://anytool.in/blog) Tutorial repository! This is where we upload small projects that are used as tutorials in our blog posts on platforms like AnyTool.in/Blog and Medium. Each project is designed to be a hands-on learning experience, covering various concepts in web development, machine learning, and other tech topics. This repository contains multiple subprojects, each organized into its own folder.
 
 ## 📌 About
 - Each project comes with a detailed write-up in my blog.
@@ -9,8 +9,8 @@ Welcome to AnyTool.in Blog's Tutorial repository! This is where we upload small 
 
 ## 🔗 Blog Posts
 We regularly write about these projects in our blog. You can find the corresponding tutorials here:
-[🔗 https://anytool.in/blog](#)
-[🔗 https://medium.com/@anytool.in](#)
+[🔗 AnyTool Blog](https://anytool.in/blog) and 
+[🔗 Medium](https://medium.com/@anytool.in)
 
 ## 📂 Projects
 Below are some of the projects included in this repository:
@@ -41,8 +41,8 @@ While these projects are mainly for educational purposes, feel free to submit su
 
 ## 📬 Get in Touch
 If you have any questions or want to discuss a project, feel free to reach out via:
-- Email: [anytool.in@gmail.com]
-- Twitter: [@anytool_in](#)
-- LinkedIn: [https://www.linkedin.com/company/anytool-in/](#)
+- Email: anytool.in@gmail.com
+- [Twitter : @anytool_in](https://x.com/i/flow/login?redirect_after_login=%2Fanytool_in)
+- [LinkedIn](https://www.linkedin.com/company/anytool-in/)
 
 Happy coding! 🚀
